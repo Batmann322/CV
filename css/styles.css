@@ -18,7 +18,8 @@ span {
   padding: 0;
 }
 
-p {
+p,
+h5 {
   margin: 0;
   padding: 0;
 }
@@ -104,7 +105,7 @@ p {
 
 .my-profession {
   color: #000;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 17px;
   margin-top: 0px;
@@ -122,7 +123,7 @@ p {
 
 .my-descr {
   color: #595959;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -153,7 +154,7 @@ p {
 
 .my-projects-item-link {
   color: #005fff;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 24px;
   text-decoration-line: underline;
@@ -162,7 +163,7 @@ p {
 
 .my-projects-item-tech {
   color: #595959;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -182,7 +183,7 @@ p {
 
 .work-experience-company {
   color: #000;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 20px;
   margin-top: 0px;
@@ -195,7 +196,7 @@ p {
 
 .work-experience-period {
   color: #a8a8a8;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 15px;
   margin-bottom: 8px;
@@ -211,7 +212,7 @@ p {
 
 .work-experience-duties-itame {
   color: #595959;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -235,7 +236,7 @@ p {
 
 .university {
   color: #6d9bf5;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   line-height: normal;
   margin-top: 0px;
@@ -244,7 +245,7 @@ p {
 
 .faculty {
   color: #000;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   line-height: normal;
   margin-top: 0px;
